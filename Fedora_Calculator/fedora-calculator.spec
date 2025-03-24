@@ -4,8 +4,8 @@ Release:        1%{?dist}
 Summary:        A simple terminal calculator for Fedora
 
 License:        MIT
-URL:            https://github.com/unconventional-guy/Fedora_Calculator
-Source0:        fedora-calculator-1.0.tar.gz
+URL:            https://github.com/Userfrom1995/Fedora_Calculator
+Source0:        https://github.com/Userfrom1995/Fedora_Calculator/archive/refs/tags/version1.tar.gz
 
 BuildArch:      noarch
 Requires:       python3
@@ -27,5 +27,6 @@ install -Dm755 calculator.py %{buildroot}%{_bindir}/fedora-calculator
 %{_bindir}/fedora-calculator
 
 %changelog
-* Sat Mar 23 2025 Your Name <userfrom1995@gmail.com> - 1.0-1
+* Mon Mar 25 2025 User1995 <userfrom1995@gmail.com> - 1.0-1
 - Initial release
+
