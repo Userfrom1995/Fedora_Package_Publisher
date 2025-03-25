@@ -29,4 +29,3 @@ install -Dm755 calculator.py %{buildroot}%{_bindir}/fedora-calculator
 %changelog
 * Mon Mar 25 2025 User1995 <userfrom1995@gmail.com> - 1.0-1
 - Initial release
-
