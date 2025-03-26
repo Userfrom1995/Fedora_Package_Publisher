@@ -23,7 +23,7 @@ management.
 
 %install
 mkdir -p %{buildroot}%{_bindir}
-install -m 0755 Main.py %{buildroot}%{_bindir}/fedora-package-publisher
+install -m 0755 fedora_package_publisher.py %{buildroot}%{_bindir}/fedora-package-publisher
 
 %files
 %license LICENSE
