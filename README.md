@@ -64,6 +64,4 @@ Feel free to contribute to this project by submitting pull requests or reporting
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-This documentation ensures that users can install, use, and troubleshoot Copr Publisher effectively. Let me know if you'd like any refinements! 🚀
 
